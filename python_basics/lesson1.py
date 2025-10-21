@@ -34,3 +34,5 @@ mood = "happy"
 hobby = "painting"
 city = "New York"
 print("Today is " + date + " and the weather is " + weather + ". I feel " + mood + " while " + hobby + " in the nice city of " + city + ".")
+
+print("we did it!")
